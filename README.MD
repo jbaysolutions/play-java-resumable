@@ -1,6 +1,6 @@
 # play-resumable-uploads
 
-Working example of Play application (Java) with Resumable.js uploader.
+Working example of Play application (Java) with Resumable.js uploader. Allows upload of large files through HTTP (any size).
 This is an Example Java Play application. Application built on [Play Framework](http://www.playframework.com) (Java), [Resumable.js](http://resumablejs.com/).
 
 ## Requirements
